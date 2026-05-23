@@ -21,6 +21,7 @@ int main(){
         max =50;
         chances = 7;
         break;
+        break; 
     case 2:
         max =100;
         chances = 5;
